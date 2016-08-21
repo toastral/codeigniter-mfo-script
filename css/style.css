@@ -1,0 +1,49 @@
+.container{
+	width:80%;
+}
+.pad-50{
+	padding-bottom: 50px;
+}
+.pad-40{
+	padding-bottom: 40px;
+}
+.pad-30{
+	padding-bottom: 30px;
+}
+.pad-20{
+	padding-bottom: 20px;
+}
+.reg_form_title{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.reg_form_title h3{
+	padding-top: 30px;
+}
+.form-button{
+	padding-top: 20px;
+}
+.back-menu{
+	font-size: 22px;
+	padding-top:40px;
+}
+
+.back-menu  a{
+	color:#999999;
+	text-decoration:none;
+}
+
+.back-menu  a:hover{
+	color:#DDDDDD;
+	text-decoration:none;
+}
+
+.site_title  a{
+	color:#999999;
+	text-decoration:none;
+}
+
+.site_title  a:active	{ color:#999999; text-decoration:none; }
+.site_title  a:link		{ color:#999999; text-decoration:none; }
+.site_title  a:visited	{ color:#999999; text-decoration:none; }
+.site_title  a:hover		{ color:#999999; text-decoration:none; }
